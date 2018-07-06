@@ -1,3 +1,5 @@
+package thuchanhtree;
+
 public class TreeNode<E> {
     protected E element;
     protected TreeNode<E> left;
